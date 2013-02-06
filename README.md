@@ -1,7 +1,7 @@
-panel
+panel v 0.1
 =====
 
-a simple flexible light-box style modal window written in jquery
+A simple flexible light-box style modal window written in jquery.
 
 EXAMPLE USE
 ------------
