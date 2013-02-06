@@ -3,10 +3,12 @@ panel
 
 a simple flexible light-box style modal window written in jquery
 
-EXAMPLE USE:
+EXAMPLE USE;
+
 $('[target="panel"]').panel({'close':'<span>X</span>'});
 
 SETTINGS;
+
 "close": the content to be displayed in the close button (default: <span>X</span>)
 "id": the element id for the panel parent container (default: Panel)
 "usemodal": will this panel instance will use a model (default: true)
