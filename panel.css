@@ -1,0 +1,43 @@
+/*------------------------------------------------------------------------*/
+/* Panel -----------------------------------------------------------------*/
+/*------------------------------------------------------------------------*/
+/*Basic Style*/
+#Panel .panel-box{
+	background:#FFF;
+	border:5px solid #00336c;
+	box-shadow:0px 0px 100px #000;
+	padding:0px;
+}
+
+#Panel .panel-box .panel-wrapper{
+	margin-top:auto;
+}
+
+#Panel .panel-modal{
+	background:#FFF;
+	opacity:.7;
+	cursor:pointer;
+}
+
+#Panel .panel-closer{
+	position:absolute;
+	top:10px;
+	right:-14px;
+	height:17px;
+	width:17px;
+	cursor:pointer;
+	background:#00336c;
+	color:#FFF;
+	padding:3px;
+	text-align:center;
+	border-radius:10px;
+}
+
+#Panel .panel-closer span{
+	font-weight:bold;
+}
+
+#Panel img.panel-solo{
+	max-width:120000%;
+	border-radius:10px;
+}
